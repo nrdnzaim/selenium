@@ -4,7 +4,7 @@
 - Uzantılardan Selenium IDE ikonuna tıklayın.
   * Selenium IDE ekranından "Open an existing project" seçeneğine tıklayın.
   * İlk olarak daha önce indirmiş olduğunuz "deepin.dev.side" projesini seçip açın.
-    - Açılan projede sırasıyla; anasayfa, contact_us, profil testlerini çalıştırın. "anasayfa" testinde 2. adımda bulunan "set window size" adımını kendi tarayıcınızın boyutlarına göre düzenlemeniz gerekmektedir.
+    - Açılan projede sırasıyla; anasayfa, contact_us, profil testlerini çalıştırın. "anasayfa" testinde 2. adımda bulunan "set window size" adımında hata alırsanız kendi tarayıcınızın boyutlarına göre düzenlemeniz gerekmektedir.
   * Daha sonra Selenium IDE ekranında sağ üstte yer alan "Open project" butonuna tıklayarak "test_project.side" projesini seçip açın.
     - Açılan projede sırasıyla; home_page, explore_product, product_detail ve provider testlerini çalıştırın.
     - Tüm testlerde 2. adımda yer alan "set window size" komutunu kendi tarayıcınızın boyutlarına göre ayarlayın.
